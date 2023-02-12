@@ -10,8 +10,8 @@ role: DeepMind Scholar & Master's Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University College London
-    url: https://www.ucl.ac.uk/ai-centre/
+  - name: University of Oxford
+    url: https://aims.robots.ox.ac.uk
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include deep, multi-agent reinforcement learning; collaborative AI and human-AI coordination.
@@ -21,16 +21,17 @@ interests:
   - Artificial Intelligence
   - Deep Reinforcement Learning
   - Multi-Agent Systems
+  - Game Theory
 
 # Education to show in About widget
 education:
   courses:
     - course: DPhil in Autonomous Intelligent Machines and Systems (CDT)
       institution: University of Oxford
-      year: Commencing October 2022
+      year: 2026
     - course: MSc in Computational Statistics and Machine Learning
       institution: University College London
-      year: In Progress
+      year: 2022
     - course: BSc in Theoretical Physics
       institution: University College London
       year: 2021
@@ -43,9 +44,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  # - icon: twitter
-  #   icon_pack: fab
-  #   link: https://twitter.com/GeorgeCushen
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/JonnyCoook
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?user=7tcPHHYAAAAJ&hl=en&authuser=2
@@ -64,12 +65,12 @@ social:
     link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'jonathan.cook.18@ucl.ac.uk'
+email: 'jonathan.cook2@eng.ox.ac.uk'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-I'm currently a Master's student, studying Computational Statistics and Machine Learning at UCL. I'm incredibly grateful to be funded and mentored by DeepMind. Often, I can be found at the UCL AI Centre, where I am supervised by Prof. Tim Rocktäschel at UCL Deciding, Acting and Reasoning with Knowledge (DARK) Lab. Right now, my research focuses on the generalisation capabilities of deep multi-agent reinforcement learning models, but I'm also deeply interested in the Collaborative AI research agenda; the problem of human-AI coordination in real-world systems; and how artificial agents can learn grounded communication strategies. I'm excited to explore these and other problems further when I begin studying for a PhD as part of the Autonomous Intelligent Machines and Systems CDT cohort at the University of Oxford, starting this Autumn.
+I'm a first-year PhD student on the Autonomous Intelligent Machines and Systems Centre for Doctoral Training at Oxford University. I share with many others the vision of artificial agents that can coordinate and cooperate to aid humans in solving problems within practical environments, be they digital or physical. This necessitates progress in general-sum settings with only partial, imperfect information available. These are precisely the kinds of settings, resembling real-world scenarios, that I aim to help bring progress in AI research towards.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
